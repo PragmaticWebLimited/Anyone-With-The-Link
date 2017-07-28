@@ -1,0 +1,16 @@
+body {
+	height: 100vh;
+	margin: 0;
+}
+
+.row {
+	display: flex;
+	height: 100%;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.column {
+	text-align: center;
+}

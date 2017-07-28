@@ -6,4 +6,4 @@ Author: Michael Rochester
 
 Maintainer: Michael Rochester <mr@pragmatic.agency>
 
-Organisation: [Pragmatic](pragmatic.agency)
+Organisation: [Pragmatic](https://pragmatic.agency/)

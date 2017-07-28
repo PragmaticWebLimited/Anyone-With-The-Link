@@ -3,5 +3,7 @@
 
 
 Author: Michael Rochester
+
 Maintainer: Michael Rochester <mr@pragmatic.agency>
+
 Organisation: [Pragmatic](pragmatic.agency)
